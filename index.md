@@ -1,6 +1,6 @@
 # Index.md
 
-[TOC]
+{:toc}
 
 ------
 
