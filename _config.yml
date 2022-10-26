@@ -1,1 +1,3 @@
-markdown: kramdown
+rdiscount:
+  extensions: ['generate_toc']
+  toc_token: "{:TOC}
