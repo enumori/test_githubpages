@@ -1037,11 +1037,9 @@
   filter: invert(50%);
 }
 
-.markdown-body code.language-mermaid {
-  text-align: center;
-}
-
 .markdown-body svg {
   text-align: center;
+  display: block;
+  margin: 0 auto;
 }
 
