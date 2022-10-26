@@ -313,7 +313,6 @@
   border-collapse: collapse;
   display: block;
   width: 100%;
-  max-width: 100%;
   overflow: auto;
 }
 
@@ -1039,7 +1038,7 @@
   filter: invert(50%);
 }
 
-div.mermaid {
+.markdown-body div.mermaid {
   text-align: center;
 }
 
