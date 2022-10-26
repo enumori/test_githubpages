@@ -312,7 +312,6 @@
   border-spacing: 0;
   border-collapse: collapse;
   display: block;
-  width: max-content;
   width: 100%;
   max-width: 100%;
   overflow: auto;
@@ -1040,9 +1039,7 @@
   filter: invert(50%);
 }
 
-.markdown-body .language-mermaid {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+div.mermaid {
+  text-align: center;
 }
 
