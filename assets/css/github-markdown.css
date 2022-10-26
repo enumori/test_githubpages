@@ -97,7 +97,7 @@
 .markdown-body {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  margin: 10px;
+  margin: 32px;
   padding: 0;
   color: var(--color-fg-default);
   background-color: var(--color-canvas-default);
@@ -1038,3 +1038,10 @@
 .markdown-body ::-webkit-calendar-picker-indicator {
   filter: invert(50%);
 }
+
+.language-mermaid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
