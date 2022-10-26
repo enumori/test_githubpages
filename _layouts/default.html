@@ -8,6 +8,7 @@
     <title>{{ page.title }}</title>
   </head>
   <body class="markdown-body">
+	{% include toc.html html=content %}
     {{ content }}
     <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.6.0/mermaid.min.js"></script>
     <script>
