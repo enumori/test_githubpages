@@ -311,7 +311,6 @@
 .markdown-body table {
   border-spacing: 0;
   border-collapse: collapse;
-  display: block;
   width: 100%;
   overflow: auto;
 }
@@ -1038,7 +1037,11 @@
   filter: invert(50%);
 }
 
-.markdown-body div.mermaid {
+.markdown-body code.language-mermaid {
+  text-align: center;
+}
+
+.markdown-body svg {
   text-align: center;
 }
 
