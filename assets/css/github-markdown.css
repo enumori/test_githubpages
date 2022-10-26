@@ -774,6 +774,9 @@
 
 .markdown-body table img {
   background-color: transparent;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .markdown-body img[align=right] {
