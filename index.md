@@ -1,6 +1,7 @@
-# Index.md
-## TOC
 
+# Index.md
+
+* TOC
 {:toc}
 
 
