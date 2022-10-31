@@ -1,5 +1,6 @@
 # Index.md
-## 目次
+## TOC
+
 {:toc}
 
 

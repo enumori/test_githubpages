@@ -1,23 +1,5 @@
 markdown: kramdown
-
 kramdown:
+  input: GFM
   parse_block_html: true
-
-plugins:
-  - 'jekyll-toc'
-  
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      image: true
-      toc: true
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      toc: true
-      layout: "post"
-
+   
