@@ -1,6 +1,5 @@
-auto: true
-server: true
 markdown: kramdown
+
 kramdown:
   parse_block_html: true
 
@@ -21,3 +20,4 @@ defaults:
     values:
       toc: true
       layout: "post"
+
