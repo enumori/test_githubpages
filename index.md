@@ -1,4 +1,3 @@
-
 # Index.md
 
 * TOC
@@ -15,7 +14,7 @@
 |      |      |      |
 |      |      | sss  |
 
-
+[sub](doc/sub.md)
 
 ```bash
 $ cd test
