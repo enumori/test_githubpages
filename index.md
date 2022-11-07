@@ -14,7 +14,14 @@
 |      |      |      |
 |      |      | sss  |
 
+
+[外部](https://www.google.com/)
+
 [sub](doc/sub.md)
+
+[sub](doc/../doc/sub.md)
+
+[sub](/doc/../doc/sub.md)
 
 ```bash
 $ cd test
